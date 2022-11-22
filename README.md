@@ -1,9 +1,10 @@
-### Hi there 👋
-
-
-- 🔭 I’m currently working on ...
+### Hello, I'm Gracielle Pereira, developer
+- 🔭 I’m currently working on .Net
 - 🌱 I’m currently learning C#
 - 😄 Pronouns: she/her
+
+##
+
 <div align="center">
   <a href="https://github.com/Gracielle-Pereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gracielle-Pereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
