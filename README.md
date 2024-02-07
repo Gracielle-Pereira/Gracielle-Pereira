@@ -1,6 +1,6 @@
 ### Hello, I'm Gracielle Pereira, developer
-- 🔭 I’m currently working on .Net
-- 🌱 I’m currently learning C#
+- 🔭 I’m currently working on Blip
+- 🌱 I’m currently learning C#, and Français
 - 😄 Pronouns: she/her
 
 ##
